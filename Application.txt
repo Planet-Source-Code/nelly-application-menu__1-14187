@@ -1,0 +1,14 @@
+Graphics.!rootGraphics.!root!appcldfld!appopnfld
+Utilities.!rootUtilities.!root!appcldfld!appopnfld
+Ztree v1.47s!rootUtilities.Ztree v1.47s!rootUtilities.!appcldfle!appopnfle
+ACDSee v3.0!rootGraphics.ACDSee v3.0!rootGraphics.!appcldfle!appopnfle
+Web Applications.!rootWeb Applications.!root!appcldfld!appopnfld
+Winzip v8.0!rootUtilities.Winzip v8.0!rootUtilities.!appcldfle!appopnfle
+Audio.!rootAudio.!root!appcldfld!appopnfld
+ICQ!rootWeb Applications.ICQ!rootWeb Applications.!appcldfle!appopnfle
+Winamp v2.61!rootAudio.Winamp v2.61!rootAudio.!appcldfle!appopnfle
+*Ztree v1.47s(~c:\ztree\ztw.exe~)*
+*ACDSee v3.0(~C:\Program Files\ACD\ACDSee\acdsee.exe~)*
+*Winzip v8.0(~C:\Program Files\WinZip\winzip32.exe~)*
+*ICQ(~C:\Program Files\ICQ\icq.exe~)*
+*Winamp v2.61(~C:\Program Files\Netscape\Communicator\Winamp\winamp.exe~)*
